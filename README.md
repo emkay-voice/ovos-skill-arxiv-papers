@@ -7,7 +7,10 @@ A second real-world test that common-reading works for more than fairy
 tales - this one introduces a new `content_type` ("paper"), sourced from
 a completely different kind of feed (per-category, updated daily).
 
-[![Tests](https://github.com/andlo/ovos-skill-arxiv-papers/actions/workflows/test.yml/badge.svg)](https://github.com/andlo/ovos-skill-arxiv-papers/actions/workflows/test.yml)
+It is part of [Emkay](https://github.com/emkay-voice/emkay), OpenVoiceOS in
+the browser, and works on any [OpenVoiceOS](https://openvoiceos.org).
+
+[![Build](https://github.com/emkay-voice/ovos-skill-arxiv-papers/actions/workflows/publish.yml/badge.svg)](https://github.com/emkay-voice/ovos-skill-arxiv-papers/actions/workflows/publish.yml)
 [![PyPI version](https://img.shields.io/pypi/v/ovos-skill-arxiv-papers.svg)](https://pypi.org/project/ovos-skill-arxiv-papers/)
 
 > **This skill has no standalone voice interface.** It registers no
